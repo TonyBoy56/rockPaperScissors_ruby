@@ -43,11 +43,11 @@ _No known bugs at this time_
 ## Specs
 
 |Behavior|Input|Output|
-| :-----|:-----|:-----|
-
-
-
-
+| :----|:-----|:-----|
+| Program will return rock choice as winner vs scissors | "rock" | "rock beats scissors" |
+| Program will return paper choice as winner vs rock| "paper" | "paper beats rock" |
+| Program will return scissors choice as winner vs paper| "scissors" | "scissors beats paper" | 
+| Program will return tie if user & computer choose same attack|"rock" "rock"| "You both chose rock, re-choose" |
 
 ## Legal
 
